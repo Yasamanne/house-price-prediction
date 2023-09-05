@@ -1,2 +1,10 @@
 # house-price-prediction
- predicting house price using sckit-learn and h2o
+ predicting house prices using scikit-learn and h2o
+
+
+ - Multiple Linear Regression
+   
+ - Compute Mean-Squared-Error(MSE)
+
+ - Dataset: Boston house price from scikit-learn package
+ 
